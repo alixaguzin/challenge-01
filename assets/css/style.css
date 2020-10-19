@@ -42,7 +42,7 @@ body {
     margin-left: 25px;
 }
 /* Header Style End */
-
+/* Hero Style Start */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -189,7 +189,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Hero Style End */
+/* Footer Style Start */
 .footer {
     padding: 30px;
     clear: both;
@@ -200,3 +201,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Style End */
